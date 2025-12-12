@@ -1,0 +1,5 @@
+{
+  "name": "Prime' Rent Service",
+  "description": "A comprehensive rental management system separating admin and user workflows. Features AI-powered notification generation and real-time status tracking.",
+  "requestFramePermissions": []
+}
